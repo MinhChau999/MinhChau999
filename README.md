@@ -2,9 +2,7 @@
 - 💬 Ask me everythhing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,5 +74,5 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MinhChau999/MinhChau999/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 09:35:56 UTC
+ Last Updated on 07/02/2022 18:42:18 UTC
 <!--END_SECTION:waka-->
