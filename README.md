@@ -2,6 +2,8 @@
 - 💬 Ask me everythhing
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
 **🐱 My GitHub Data** 
@@ -45,16 +47,25 @@ Sunday       13 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr                ████████████░░░░░░░░░░░░░   48.82% 
+YAML                     42 mins             ████████░░░░░░░░░░░░░░░░░   34.63% 
+C#                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 53 mins        ███████████████████████░░   91.53% 
+Visual Studio            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+doan1J2School            1 hr                ████████████░░░░░░░░░░░░░   48.82% 
+profile github           52 mins             ██████████░░░░░░░░░░░░░░░   42.71% 
+ToolAuto                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+decompileLordMobile      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +85,5 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MinhChau999/MinhChau999/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 18:42:18 UTC
+ Last Updated on 08/02/2022 10:22:43 UTC
 <!--END_SECTION:waka-->
