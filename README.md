@@ -86,5 +86,5 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MinhChau999/MinhChau999/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2022 10:45:17 UTC
+ Last Updated on 10/02/2022 10:45:57 UTC
 <!--END_SECTION:waka-->
