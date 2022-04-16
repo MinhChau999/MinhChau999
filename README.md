@@ -20,11 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     11 mins             ███████████████░░░░░░░░░░   62.65% 
-JavaScript               7 mins              █████████░░░░░░░░░░░░░░░░   37.35%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -41,5 +40,5 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 
 
 
- Last Updated on 15/04/2022 18:46:22 UTC
+ Last Updated on 16/04/2022 18:45:11 UTC
 <!--END_SECTION:waka-->
