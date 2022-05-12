@@ -2,13 +2,13 @@
 - 💬 Ask me everythhing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 35 Contributions in the Year 2022
+> 🏆 37 Contributions in the Year 2022
  > 
 > 📦 292.9 kB Used in GitHub's Storage 
  > 
@@ -22,10 +22,10 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -42,5 +42,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2022 18:48:56 UTC
+ Last Updated on 12/05/2022 18:50:58 UTC
 <!--END_SECTION:waka-->
