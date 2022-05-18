@@ -33,14 +33,14 @@ No Activity Tracked This Week
 
 ```text
 Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 16/05/2022 18:49:43 UTC
+ Last Updated on 18/05/2022 18:48:14 UTC
 <!--END_SECTION:waka-->
