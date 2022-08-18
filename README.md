@@ -2,13 +2,13 @@
 - 💬 Ask me everythhing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2022
+> 🏆 135 Contributions in the Year 2022
  > 
 > 📦 299.3 kB Used in GitHub's Storage 
  > 
@@ -42,5 +42,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2022 18:49:18 UTC
+ Last Updated on 18/08/2022 18:47:22 UTC
 <!--END_SECTION:waka-->
