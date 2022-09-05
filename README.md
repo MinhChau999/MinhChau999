@@ -2,7 +2,7 @@
 - 💬 Ask me everythhing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,6 +18,17 @@
  > 
 > 🔑 2 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,5 +42,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:47:02 UTC
+ Last Updated on 05/09/2022 18:49:56 UTC
 <!--END_SECTION:waka-->
