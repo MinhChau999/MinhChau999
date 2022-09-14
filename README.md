@@ -18,17 +18,6 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -42,5 +31,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 18:52:39 UTC
+ Last Updated on 14/09/2022 18:52:37 UTC
 <!--END_SECTION:waka-->
