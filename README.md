@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 160 Contributions in the Year 2022
+> 🏆 162 Contributions in the Year 2022
  > 
 > 📦 299.3 kB Used in GitHub's Storage 
  > 
@@ -18,6 +18,17 @@
  > 
 > 🔑 2 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,5 +42,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 18:52:37 UTC
+ Last Updated on 15/09/2022 18:51:42 UTC
 <!--END_SECTION:waka-->
